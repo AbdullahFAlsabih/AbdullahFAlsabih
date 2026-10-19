@@ -1,34 +1,62 @@
-# Hey there, I'm [Abdullah Alsabih](https://github.com/abdullahalsabih) 👋
+# Abdullah Alsabih
 
-**Software Engineer · 
+**Systems Engineering | Systems Programming | Software Development**
 
+Welcome to my GitHub profile! I'm Abdullah, a software engineering graduate with professional experience in technical solutions and a growing focus on systems engineering, Linux, and low-level programming.
 
-## 🚀 About Me
+## About Me
 
-Software Engineer specializing in systems programming and full-stack development. Focused on low-level performance, clean software architecture, and delivering robust, impactful digital solutions.
+I'm developing my expertise in how software interacts with operating systems and how systems work under the hood. My current learning focuses on Linux, command-line tools, processes, networking fundamentals, C programming, and system internals.
 
-## 🔧 My Tech Stack
+I enjoy learning by building practical projects, exploring low-level concepts, and solving technical problems. I'm particularly interested in systems programming, understanding executable formats, and developing reliable software.
 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assemblyscript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+I'm continuously expanding my technical skills through hands-on projects and documenting my progress here on GitHub.
 
+## Technical Skills
 
-## 📊 GitHub Stats
+**Systems & Operating Systems**
+- Linux and Command-Line Interface (CLI)
+- Bash scripting and process fundamentals
+- ELF executable analysis
+- Networking fundamentals
+
+**Programming Languages**
+- C
+- Python
+- Assembly fundamentals
+- C#
+- JavaScript
+
+**Tools & Technologies**
+- Git and GitHub
+- Makefiles
+- JSON
+- HTML5 and CSS3
+
+## Featured Projects
+
+### Custom File Archiver — C
+A systems programming project focused on designing a custom binary archive format, handling file data, and exploring file metadata and data integrity.
+
+### ELF Analysis — C / Linux
+Hands-on exploration of ELF executables in a 64-bit Linux environment, using tools such as `file` and `readelf` to understand executable structure.
+
+### Holy Quran Application — Python
+A Python application project focused on building useful functionality and applying software development concepts.
+
+*Explore my repositories for source code, implementation details, and ongoing work.*
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahfalsabih&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahFAlsabih&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages on GitHub" />
 </div>
 
-## 🔗 Connect with Me
+## Connect With Me
 
-<div align="center">
-  
+- **LinkedIn:** [Abdullah Alsabih](https://www.linkedin.com/in/abdullah-f-alsabih/)
+- **GitHub:** [@AbdullahFAlsabih](https://github.com/AbdullahFAlsabih)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-f-alsabih/)
-</div>
+---
+
+*Learning by building. Improving through practice. Understanding systems from the inside out.*
