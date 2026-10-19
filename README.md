@@ -37,6 +37,9 @@ I'm continuously expanding my technical skills through hands-on projects and doc
 - HTML5 and CSS3
 
 
+##Projects 
+Holy Quran Application (https://github.com/AbdullahFAlsabih/QuranApp.git)
+
 
 ## GitHub Activity
 
