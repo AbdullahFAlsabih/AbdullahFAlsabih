@@ -1,4 +1,7 @@
 # Abdullah Alsabih
+*Learning by building. Improving through practice. Understanding systems from the inside out.*
+
+
 
 **Systems Engineering | Systems Programming | Software Development**
 
@@ -48,4 +51,3 @@ I'm continuously expanding my technical skills through hands-on projects and doc
 
 ---
 
-*Learning by building. Improving through practice. Understanding systems from the inside out.*
