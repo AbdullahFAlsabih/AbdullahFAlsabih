@@ -38,7 +38,8 @@ I'm continuously expanding my technical skills through hands-on projects and doc
 
 
 ##Projects 
-Holy Quran Application (https://github.com/AbdullahFAlsabih/QuranApp.git)
+
+[Holy Quran Application ](https://github.com/AbdullahFAlsabih/QuranApp.git)
 
 
 ## GitHub Activity
