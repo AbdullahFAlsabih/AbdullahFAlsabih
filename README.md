@@ -33,18 +33,7 @@ I'm continuously expanding my technical skills through hands-on projects and doc
 - JSON
 - HTML5 and CSS3
 
-## Featured Projects
 
-### Custom File Archiver — C
-A systems programming project focused on designing a custom binary archive format, handling file data, and exploring file metadata and data integrity.
-
-### ELF Analysis — C / Linux
-Hands-on exploration of ELF executables in a 64-bit Linux environment, using tools such as `file` and `readelf` to understand executable structure.
-
-### Holy Quran Application — Python
-A Python application project focused on building useful functionality and applying software development concepts.
-
-*Explore my repositories for source code, implementation details, and ongoing work.*
 
 ## GitHub Activity
 
