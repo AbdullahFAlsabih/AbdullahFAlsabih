@@ -42,7 +42,10 @@ I'm continuously expanding my technical skills through hands-on projects and doc
 [Holy Quran Application ](https://github.com/AbdullahFAlsabih/QuranApp.git)
 
 [USB controller](https://github.com/MuathSh/USB-ports-controller)
+
 [Smart Box](https://github.com/salshidadi/Smart-Box)
+
+[Smart Drone Controller System](https://github.com/m7md-d/SDCS)
 
 
 ## GitHub Activity
